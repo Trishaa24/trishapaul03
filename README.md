@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trishapaul03
-- 👀 I’m interested in web dev, AI-ML, cybersecurity 
-- 🌱 I'm on an exciting learning journey, expanding my skills and knowledge in various areas. 
+- 👀 I’m interested in web dev, AI-ML
+- 🌱 I'm on an exciting learning journey, expanding my skills and knowledge in various areas.
 
 
 <!---
